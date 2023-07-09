@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=Waving&text=YounJin-World)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=YounJin-World&fontSize=50&&descSize=30&fontColor=d6ace64&animation=fadeIn)
 
 <!--
 **kwonyoun/kwonyoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
