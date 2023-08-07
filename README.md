@@ -1,4 +1,4 @@
-### Hi there 👋
+### Dream a better future 👋
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=YounJin-World&fontSize=50&&descSize=30&fontColor=fffff&animation=fadeIn&height=180&color=FFD700)
 
 <!--
