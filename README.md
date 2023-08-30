@@ -1,13 +1,19 @@
-### Dream a better future 👋
-![header](https://capsule-render.vercel.app/api?type=cylinder&text=YounJin-World&fontSize=50&&descSize=30&fontColor=fffff&animation=fadeIn&height=180&color=FFD700)
+
+
+
+
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=YounJin-World&fontSize=50&&descSize=30&fontColor=fffff&animation=fadeIn&height=150&color=FFD700)
 
 안녕하세요 저는 권윤진입니다.<br> 백엔드를 공부하고있습니다. <br>
-<br>
+### Dream a better future 👋
+
+<div align="center">
   
 📞 Contact Me <br>
 e-mail: younjinn2@naver.com
  <br>
-  <br>
 
 💻workout tech stact <br>
 
@@ -40,6 +46,7 @@ e-mail: younjinn2@naver.com
 <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=#000000"/>
 
  <br>
+ </div>
 
 <!--
 **kwonyoun/kwonyoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
