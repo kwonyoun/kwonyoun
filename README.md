@@ -1,5 +1,5 @@
 ### Dream a better future 👋
-![header](https://capsule-render.vercel.app/api?type=Waving&text=YounJin-World&fontSize=50&&descSize=30&fontColor=fffff&animation=fadeIn&height=180&color=FFD700)
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=YounJin-World&fontSize=50&&descSize=30&fontColor=fffff&animation=fadeIn&height=180&color=FFD700)
 
 안녕하세요 저는 권윤진입니다.<br> 백엔드를 공부하고있습니다. <br>
 <br>
