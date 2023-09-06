@@ -6,7 +6,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&text=YounJin-World!&fontSize=50&&descSize=30&fontColor=ffff&animation=fadeIn&height=150&color=gradient)
 
-안녕하세요 저는 권윤진입니다.<br> 백엔드를 공부하고있습니다. <br>
+안녕하세요 권윤진입니다.<br> 백엔드를 공부하고있습니다. <br>
 ### Dream a better future 👋
 
 <div align="center">
