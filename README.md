@@ -6,14 +6,7 @@
 
 ### YounJin-Archive! 👋 
 
-안녕하세요 권윤진입니다.<br> 백엔드를 공부하고있습니다. <br>
-
-
 <div align="center">
-  
-📞 Contact Me <br>
-e-mail: younjinn2@naver.com
- <br>
 <h3>💻 Tech Stacks 💻</h3>
     <div>
     <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=java&logoColor=blackF"/>
