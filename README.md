@@ -23,7 +23,7 @@ e-mail: younjinn2@naver.com
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/><br>
     <img src="https://img.shields.io/badge/jsp-0769AD?style=for-the-badge&logo=jsp&logoColor=#0769AD"/>
     <img src="https://img.shields.io/badge/ajax-181717?style=for-the-badge&logo=ajax&logoColor=#181717"/>
-    <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=#85EA2D"/>
+    <img src="https://img.shields.io/badge/swagger-green?style=for-the-badge&logo=swagger&logoColor=#6DB33F"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
