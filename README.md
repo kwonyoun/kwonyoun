@@ -19,7 +19,9 @@
     <img src="https://img.shields.io/badge/swagger-green?style=for-the-badge&logo=swagger&logoColor=#6DB33F"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/thymeleaf-1572B6?style=for-the-badge&logo=thymeleaf&logoColor=white">
+    <img src="https://img.shields.io/badge/jpa-181717?style=for-the-badge&logo=jpa&logoColor=#6DB33F">
 
 
 <br>
